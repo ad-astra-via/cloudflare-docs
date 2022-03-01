@@ -6,7 +6,7 @@ weight: 5
 
 # Zaraz Set
 
-`zaraz.set()` allows you to define your own variables. The variables you define will be automatically included with your `zaraz.track()` calls or triggers. To start using your own variables, add `zaraz.set(key, value, [options])` to the `<body>` element of your website. The `[options]` argument is optional.
+`zaraz.set()` allows you to define your own variables. The variables you define will be automatically included with your Pageview trigger, and `zaraz.track()` calls or triggers. To start using your own variables, add `zaraz.set(key, value, [options])` to the `<body>` element of your website. The `[options]` argument is optional.
 
 The following is an example for a new `product_name`:
 
