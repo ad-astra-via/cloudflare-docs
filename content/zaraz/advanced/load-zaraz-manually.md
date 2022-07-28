@@ -27,5 +27,6 @@ With the script, your page HTML should be similar to the following:
   </body>
 </html>
 ```
+Make sure to configure your first third-party tool with Zaraz to enable the service. 
 
 Note that if your site is not proxied by Cloudflare, you should refer to the section about [Using Zaraz on domains not proxied by Cloudflare](/zaraz/advanced/domains-not-proxied/).
