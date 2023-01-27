@@ -7,7 +7,7 @@ meta:
 
 # Zaraz settings
 
-To configure Zaraz's general settings, select [**Zaraz**](https://dash.cloudflare.com/?to=/:account/:zone/zaraz) > **Settings**.
+To configure Zaraz's general settings, select [**Zaraz**](https://dash.cloudflare.com/?to=/:account/:zone/zaraz) > **Settings**. After applying your desired settings, make sure to hit the save button. 
 
 ## Workflow
 
